@@ -1,0 +1,9 @@
+title: Test title
+tagline: test website
+description: Test description
+author: 2022
+
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: zivong/ockham
